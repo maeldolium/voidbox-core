@@ -1,0 +1,21 @@
+{
+  "name": "voidbox-core",
+  "version": "1.0.0",
+  "description": "Open-source engine powering VoidBox — a privacy-first email \r cleaning desktop app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maeldolium/voidbox-core.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/maeldolium/voidbox-core/issues"
+  },
+  "homepage": "https://github.com/maeldolium/voidbox-core#readme"
+}
